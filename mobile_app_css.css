@@ -2,3 +2,14 @@
     border-color: #b2b2b2;
     background: #6d0614;
 }
+ion-app.app-root .core-button-select, ion-app.app-root ion-select.core-button-select {
+    background-color: #fff;
+    color: #cb3d4d;
+    white-space: normal;
+    -webkit-align-self: start;
+    -ms-flex-item-align: start;
+    align-self: start;
+    max-width: none;
+    text-align: left;
+    text-align: start;
+}
