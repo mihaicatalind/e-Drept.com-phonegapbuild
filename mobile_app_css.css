@@ -18,5 +18,5 @@ ion-app.app-root .core-tabs-bar .tab-slide[aria-selected=true] {
     border-bottom-color: #bb3847!important;
 }
 .tabs-md .tab-button[aria-selected=true] .tab-button-icon, .tabs-md ion-app.app-root .core-tabs-bar .tab-slide[aria-selected=true] .tab-button-icon, ion-app.app-root .core-tabs-bar .tabs-md .tab-slide[aria-selected=true] .tab-button-icon {
-    color: #bb3847;
+    color: #bb3847!important;
 }
