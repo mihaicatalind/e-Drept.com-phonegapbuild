@@ -13,3 +13,7 @@ ion-app.app-root .core-button-select, ion-app.app-root ion-select.core-button-se
     text-align: left;
     text-align: start;
 }
+ion-app.app-root .core-tabs-bar .tab-slide[aria-selected=true] {
+    color: #cb3d4d!important;
+    border-bottom-color: #bb3847!important;
+}
